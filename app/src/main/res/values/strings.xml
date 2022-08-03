@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cartao de visitas</string>
+    <string name="label_business_card">Cartão de visita</string>
+    <string name="nome">nome</string>
+    <string name="tittulo">novo card</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">email</string>
+    <string name="empresa">nome da empresa</string>
+    <string name="cor">cor</string>
+    <string name="confirmar">confirmar</string>
+    <string name="label_show_success">cadastrado com sucesso</string>
+</resources>

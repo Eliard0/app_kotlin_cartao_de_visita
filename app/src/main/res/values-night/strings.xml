@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_business_card">Cartão de visita</string>
+    <string name="tittulo">novo card</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">email</string>
+    <string name="empresa">nome da empresa</string>
+    <string name="confirmar">confirmar</string>
+</resources>
